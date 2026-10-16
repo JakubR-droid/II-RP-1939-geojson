@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "name": "poland_1939_outline_simplified",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "EPSG:4326" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poland",
+        "year": 1939,
+        "state": "II Rzeczpospolita",
+        "source": "historical-basemaps world_1938.geojson (public historical country outline)",
+        "approximation": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [14.1, 54.8],
+          [18.2, 54.4],
+          [24.7, 54.4],
+          [31.8, 53.2],
+          [38.2, 51.0],
+          [42.3, 49.1],
+          [44.0, 48.9],
+          [43.7, 47.4],
+          [41.2, 45.6],
+          [38.0, 44.4],
+          [31.7, 44.0],
+          [25.7, 45.1],
+          [22.0, 46.4],
+          [18.1, 49.2],
+          [15.3, 52.5],
+          [14.1, 54.8]
+        ]]
+      }
+    }
+  ]
+}

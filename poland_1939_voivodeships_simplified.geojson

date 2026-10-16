@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "name": "poland_1939_voivodeships_simplified",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "EPSG:4326" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Pomorskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [14.8, 54.8], [17.7, 54.6], [18.8, 53.1], [17.2, 52.8], [15.3, 53.2], [14.8, 54.8] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Poznańskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [14.8, 52.4], [17.8, 52.4], [17.6, 50.8], [15.3, 50.9], [14.8, 52.4] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Śląskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [16.8, 50.9], [19.5, 50.9], [18.5, 49.2], [16.6, 49.8], [16.8, 50.9] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Łódzkie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [17.2, 52.5], [20.3, 52.5], [18.8, 50.8], [17.0, 51.2], [17.2, 52.5] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kieleckie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [18.7, 51.1], [22.5, 51.1], [20.6, 49.2], [18.7, 49.7], [18.7, 51.1] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Warszawskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [20.3, 52.5], [22.9, 52.5], [21.7, 50.7], [20.2, 51.1], [20.3, 52.5] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lubelskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [22.0, 51.0], [25.9, 51.0], [24.7, 48.9], [22.5, 49.2], [22.0, 51.0] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Krakowskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [18.7, 50.0], [21.9, 50.0], [20.2, 48.1], [18.7, 48.7], [18.7, 50.0] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lwowskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [22.7, 50.3], [26.8, 50.3], [25.6, 47.7], [23.0, 48.8], [22.7, 50.3] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tarnopolskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [24.8, 50.0], [29.0, 50.0], [26.9, 47.6], [24.8, 48.6], [24.8, 50.0] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Stanisławowskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [23.6, 49.3], [26.9, 49.3], [25.8, 46.8], [23.8, 47.5], [23.6, 49.3] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wołyńskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [25.0, 51.0], [30.2, 51.0], [28.0, 48.0], [25.2, 49.0], [25.0, 51.0] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Poleskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [24.3, 52.9], [29.5, 52.9], [29.0, 50.2], [25.0, 50.3], [24.3, 52.9] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Białostockie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [22.0, 53.8], [25.6, 53.8], [23.8, 51.8], [22.0, 52.4], [22.0, 53.8] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nowogródzkie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [23.1, 54.0], [27.4, 54.0], [25.0, 51.8], [23.1, 52.7], [23.1, 54.0] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wilenskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [24.7, 54.7], [27.9, 54.7], [26.8, 52.1], [24.8, 52.9], [24.7, 54.7] ]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Wileńskie", "year": 1939, "approximation": true },
+      "geometry": { "type": "Polygon", "coordinates": [[ [24.3, 54.8], [27.2, 54.8], [25.6, 52.9], [24.3, 53.6], [24.3, 54.8] ]] }
+    }
+  ]
+}
